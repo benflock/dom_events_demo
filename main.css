@@ -1,0 +1,12 @@
+body {
+  background-color: wheat;
+}
+table {
+  border: .2rem solid black;
+}
+tbody tr:nth-child(odd){
+  background-color: gray;
+}
+button {
+  border-radius: 50%;
+}
